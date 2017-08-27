@@ -18,5 +18,5 @@ def test_dollar_price():
 
 def test_yield():
     assert g33standards.apply_yield_rules(4.1269834) == "4.127"
-    assert g33standards.apply_yield_rules(-2.1535) == "-2.154"
+    assert g33standards.apply_yield_rules(-2.1535) == "-2.153"
     assert g33standards.apply_yield_rules(-2.1534) == "-2.153"
