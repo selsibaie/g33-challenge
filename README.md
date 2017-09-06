@@ -31,7 +31,9 @@ Execute "run.py" using the python 3.6 interpreter, and interactively supply the 
 
 ## How to run tests
 Install pytest: `pip install -U pytest`
+
 Run pytest through interpreter: `python -m pytest unittest.py`
+
 Further documentation: https://docs.pytest.org/en/latest/contents.html
 
 ## Dependencies
