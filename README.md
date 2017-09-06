@@ -27,7 +27,7 @@ Standards of Accuracy; Truncation.
 Numbers shall be rounded, where required, in the following manner: if the last digit after truncation is five or above, the preceding digit shall be increased to the next highest number, and the last digit shall be discarded.
 
 ## How to use
-Execute "run.py" using python 3.6, and interactively supply the information the application requests.
+Execute "run.py" using the python 3.6 interpreter, and interactively supply the information the application requests.
 
 ## How to run tests
 Install pytest: `pip install -U pytest`
