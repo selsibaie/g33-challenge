@@ -29,5 +29,10 @@ Numbers shall be rounded, where required, in the following manner: if the last d
 ## How to use
 Execute "run.py" using python 3.6, and interactively supply the information the application requests.
 
+## How to run tests
+Install pytest: `pip install -U pytest`
+Run pytest through interpreter: `python -m pytest unittest.py`
+Further documentation: https://docs.pytest.org/en/latest/contents.html
+
 ## Dependencies
 Python 3.6
